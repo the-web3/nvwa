@@ -1,2 +1,3 @@
 # nvwa
-nvwa is a nft project for Savour wallet
+nvwa is nft aggregator for eth, solana, flow, xtz and so on
+
