@@ -26,7 +26,11 @@ This project is written in python Django, the dependency version is above python
 
 ### 2.migrate database
 
-`python3 manager migrations`
+```
+python3 manager makemigrations
+python3 manager migrate
+```
+
 
 ### 3. run dev
 
